@@ -6,7 +6,7 @@ import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class BaseScreen implements Screen, InputProcessor {
-    protected String name;
+    //protected String name;
     protected SpriteBatch batch;
 
     @Override
